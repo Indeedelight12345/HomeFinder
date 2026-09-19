@@ -1,0 +1,6 @@
+{
+  "name": "HomeFinder",
+  "description": "Modern European real estate marketplace to buy, rent, and list premium properties across Budapest, Vienna, Amsterdam, Prague, and Warsaw.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
